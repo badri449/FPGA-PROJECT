@@ -1,2 +1,2 @@
 # FPGA-PROJECT
-Railway Ticket Reservation System Implemented on Xilinx Zynq 7000
+Railway Ticket Reservation System Implemented on Zybo
